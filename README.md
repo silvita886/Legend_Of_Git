@@ -22,3 +22,6 @@ La misión de Arion es recuperar el artefacto sagrado y derrotar al villano oscu
 - **Objetivos**:
   - Enfrentarse al villano en un combate final.
   - Liberar a los prisioneros.
+## Cambios en la rama dev
+- Añadido un nuevo nivel: La Ciudad Perdida.
+- Nuevos enemigos y desafíos.
